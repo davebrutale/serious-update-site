@@ -21,7 +21,7 @@
 title: Serious Update
 email: davebrutale@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The #1 Source
+  The #1 Source of information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://seriousupdate.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: davebrutale
